@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSAds", "OSAds\OSAds.csproj", "{9E06CF2F-999F-4924-8058-A4593CCB5653}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSAdsSetting", "..\OSAdsSetting\OSAdsSetting.csproj", "{9B655522-DCEE-495B-B5AD-411595D28745}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSAdsSetting", "OSAdsSetting\OSAdsSetting.csproj", "{9B655522-DCEE-495B-B5AD-411595D28745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -149,7 +149,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OSAds\OSAds\OSAds.csproj">
+    <ProjectReference Include="..\OSAds\OSAds.csproj">
       <Project>{9E06CF2F-999F-4924-8058-A4593CCB5653}</Project>
       <Name>OSAds</Name>
     </ProjectReference>
